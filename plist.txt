@@ -1,5 +1,8 @@
 #PHole Block list
 
-youtube.com
-facebook.de
-twitch.tv
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.de
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 facebook.de
+0.0.0.0 twitch.tv
