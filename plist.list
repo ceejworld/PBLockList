@@ -2,7 +2,6 @@
 0.0.0.0 youtube.de
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube.com
-0.0.0.0 *.youtube.com
-0.0.0.0 *.youtube.de
+0.0.0.0 yt3.ggpht.com
 0.0.0.0 facebook.de
 0.0.0.0 twitch.tv
